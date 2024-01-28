@@ -1,0 +1,49 @@
+/**
+ * Mixin for flex row
+ */
+/**
+ * Mixin for flex column
+ */
+/**
+ * Mixin for flex flex-start flex-start
+ */
+/**
+ * Mixin for flex flex-start center
+ */
+/**
+ * Mixin for flex center center
+ */
+/**
+ * Mixin for flex center flex-start
+ */
+/*
+import your fonts here
+for exemple @import ("https://google.fonts.com/Roboto,100,100i,200,200i,300,300i,400,400i,700,800")
+
+set your balise with fonts
+
+example h2 {
+	font-family: "Roboto", sans-serif;
+}
+*/
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+input, button, textarea {
+  border: none;
+  background: none;
+  outline: none;
+}
+
+i, em {
+  font-style: normal;
+}
+
+/*# sourceMappingURL=style.css.map */
